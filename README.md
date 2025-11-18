@@ -8,11 +8,6 @@ Power BI dashboard created for my second internship task at Dynamix Network usin
   🎛️ Added slicers for dynamic insights and easier user navigation
   📈 Focused on practical, insight-driven visualization design
 
-🔧 Tools & Technologies
-  Power BI
-  Power Query
-  Kaggle dataset
-
 📌 Project Purpose
   To demonstrate end-to-end data handling:
     ✔️ Data loading
@@ -20,6 +15,17 @@ Power BI dashboard created for my second internship task at Dynamix Network usin
     ✔️ Transformation
     ✔️ Visualization
     ✔️ Dashboard creation
+    
+🛠️ Tools & Technologies
+  Power BI – Dashboard creation and visualization
+  Power Query – Data cleaning and transformation
+  Excel/CSV Dataset – Source data
+  DAX – Basic calculations and measures
 
-  #PowerBI #DataAnalytics #PowerQuery #DashboardDesign
-  #Kaggle #DataCleaning #BusinessIntelligence
+📁 Dataset The dataset used in this project is based on publicly available Netflix movie data.
+You can find similar datasets on Kaggle.
+
+🔗 Connect With Me 📧 [faizulahamed256@gmail.com] 💼 [https://www.linkedin.com/in/ahamed-abdul-kadhar-b44705301]
+
+#PowerBI #DataAnalytics #PowerQuery #DashboardDesign
+#Kaggle #DataCleaning #BusinessIntelligence
