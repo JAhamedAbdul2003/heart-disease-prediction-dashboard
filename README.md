@@ -35,9 +35,6 @@ DAX – Basic calculations (where needed)
 A fully functional Power BI dashboard that allows users to explore the dataset interactively, uncover trends, compare values, and analyze the data from multiple angles.
 The project strengthens skills in data preparation, modeling, and visualization.
 
-📸 Dashboard Preview
-
-(Add a screenshot of your dashboard here)
 
 📁 Dataset
 
@@ -46,7 +43,8 @@ Similar datasets can be found on: https://www.kaggle.com/datasets
 
 🔗 Connect With Me
 
-📧 [Your Email Here]
-💼 [Your LinkedIn Profile Link]
+📧 [faizulahamed256@gmail.com] 
+💼 [https://www.linkedin.com/in/ahamed-abdul-kadhar-b44705301]
+
 #PowerBI #DataAnalytics #PowerQuery #DashboardDesign
 #Kaggle #DataCleaning #BusinessIntelligence
